@@ -1,0 +1,34 @@
+*{
+ margin: 0;
+ padding: 0;
+ box-sizing: border-box;
+}
+
+body{
+ 
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    background-color: darkslategrey;
+ 
+}
+
+.container{
+    text-align: center;
+    margin-top: 340px;
+}
+
+
+#counter{
+    font-size: 3rem;
+}
+
+.btn{
+    padding: 16px 17px 16px ;
+    cursor: pointer;
+    border: none;
+    background-color: darkorange;
+    font-size: 15px;
+    font-weight: 700;
+    margin-top: 2rem;
+    border-radius: 6px;
+    margin-left: 10px;
+}
